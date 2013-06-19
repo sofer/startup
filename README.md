@@ -1,4 +1,4 @@
 startup
 =======
 
-Startup repository for Coursera Startup Engineering group
+Startup repository for Coursera Startup Engineering group in London
